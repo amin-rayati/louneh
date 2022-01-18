@@ -6,9 +6,41 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "framework7-react": "^6.1.1",
+    "google-map-react": "^2.1.10",
+    "leaflet": "^1.7.1",
     "react": "^17.0.2",
+    "react-animated-css": "^1.2.1",
+    "react-animations": "^1.0.0",
+    "react-bootstrap": "^1.6.1",
+    "react-bootstrap-sweetalert": "^5.2.0",
+    "react-collapsible": "^2.8.3",
+    "react-cookie": "^4.0.3",
     "react-dom": "^17.0.2",
+    "react-dropzone": "^11.3.4",
+    "react-dropzone-uploader": "^2.11.0",
+    "react-icons": "^4.2.0",
+    "react-lazy-load": "^3.1.13",
+    "react-leaflet": "^3.2.1",
+    "react-number-format": "^4.8.0",
+    "react-reveal": "^1.2.2",
+    "react-router-bootstrap": "^0.25.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "react-simple-image-slider": "^2.1.2",
+    "react-slick": "^0.28.1",
+    "react-slideshow-image": "^3.5.0",
+    "react-slidy": "^4.3.3",
+    "reactjs-media": "^1.5.1",
+    "reactstrap": "^8.9.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.0",
+    "sweetalert2": "^11.1.0",
+    "sweetalert2-react-content": "^4.1.1",
+    "validator": "^13.6.0",
+    "vazir-font-farsi-number": "^20.1.2",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
@@ -23,16 +55,9 @@
       "react-app/jest"
     ]
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
 }
